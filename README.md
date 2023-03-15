@@ -1,4 +1,4 @@
-![alt text](https://github.com/RithikaAkula/RithikaAkula/blob/main/github%20cover.png)
+![alt text](https://github.com/RithikaAkula/RithikaAkula/blob/main/github_cover.png)
 <!--
 **RithikaAkula/RithikaAkula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
